@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "sqlite_gateway": {
+            "command": "D:\\workspace\\gateway\\gateway.exe",
+            "args": [
+                "start",
+                "stdio",
+                "--config",
+                "D:\\workspace\\gateway\\gateway.yaml"
+            ]
+        }
+    }
+  }
